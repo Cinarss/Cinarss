@@ -22,7 +22,7 @@ Skills
 - :mailbox: How to find me: 
   - :bulb: [Twitter](https://twitter.com/cinarsakk)
   - :office: [Linkedin](https://www.linkedin.com/in/çınar-sak-87141b217/)
-  - 📷: [İnstagram](https://www.instagram.com/cinarsak/?hl=tr)
+  - 📷 [İnstagram](https://www.instagram.com/cinarsak/?hl=tr)
   - :e-mail: [sakcinar5@gmail.com]()
 
 
