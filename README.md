@@ -25,7 +25,7 @@ Skills
   - :camera_with_flash: [İnstagram](https://www.instagram.com/cinarsak/?hl=tr)
   - :e-mail: [sakcinar5@gmail.com]()
 
-[![Cinarss github stats](https://github-readme-stats.vercel.app/api?username=Cinarss&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+#[![Cinarss github stats](https://github-readme-stats.vercel.app/api?username=Cinarss&count_private=true&show_icons=true&theme=radical&hide_rank=false)]#(https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/644588418382430208?theme=dark&bg=202020&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/644588418382430208)
