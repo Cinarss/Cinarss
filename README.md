@@ -8,9 +8,9 @@ I'm Cinar Sak from Turkey, and young developer.I really enjoy learning languages
 Skills 
 
 
-:computer: HTML, CSS, PYTHON
+:computer: HTML, CSS, PYTHON,C
 
-:closed_book: C, JS, C++
+:closed_book: JS, C++
 
 
 
