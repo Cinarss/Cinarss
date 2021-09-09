@@ -10,7 +10,7 @@ Skills
 
 :computer: HTML, CSS, PYTHON,C
 
-:closed_book: JS
+:closed_book: JS, C#
 
 
 
