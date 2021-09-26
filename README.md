@@ -15,7 +15,7 @@
 
 
 <br><br>
-
+- 🌱 I’m currently learning **C#** and **Js**
 
 <h3 align="left">Languages and Tools:</h3>
 
