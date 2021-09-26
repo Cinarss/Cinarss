@@ -24,7 +24,7 @@
 - 🌐 You can reach my website here **(http://cinarsak.ml)**
 
 
-<br><br>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -38,28 +38,9 @@
   <a href="https://www.linux.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40px" height="40px"></a>
   <a href=""> <img src="https://img.icons8.com/color/50/000000/c-programming.png" width="40px" height="40px"></a> 
 
-
-
-
-
-
-
 </p>
 
-
-
-
-
-
-
-
-
-
-<br><br><br><br>
-
-
-
-
+<br><br><br>
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/644588418382430208?theme=dark&bg=202020&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/644588418382430208)
