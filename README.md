@@ -17,6 +17,10 @@
 <br><br>
 - 🌱 I’m currently learning **C#** and **Js**
 
+- 👨‍💻  My projects are available at (https://github.com/Cinarss?tab=repositories)
+
+- 📫if you want to contact me **sakcinar5@gmail.com**
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
