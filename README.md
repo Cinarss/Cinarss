@@ -20,7 +20,8 @@ I'm Cinar Sak from Turkey, and young developer.I really enjoy learning languages
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <a href="https://www.python.org"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="40px" width="40"></a>
+  <a href="https://www.python.org"> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" height="40px" width="40"></a>
+  <a href="https://www.w3.org/html/"> <img src=""></a>
 
 
 
