@@ -23,7 +23,6 @@ I'm Cinar Sak from Turkey, and young developer.I really enjoy learning languages
 - 
   - :e-mail: [sakcinar5@gmail.com]()
 
-<img src="https://cdn-icons-png.flaticon.com/512/1822/1822920.png">
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/644588418382430208?theme=dark&bg=202020&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/644588418382430208)
