@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <br><br>
-<h1 align="center" width="15px">I'm Cinar Sak from Turkey, and young developer.I really enjoy learning languages, this much :) </h1>
+<h2 align="center" >I'm Cinar Sak from Turkey, and young developer.I really enjoy learning languages, this much :) </h2>
 
 <br><br>
 
