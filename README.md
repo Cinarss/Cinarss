@@ -1,11 +1,11 @@
 
-Hi
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 I'm Cinar Sak from Turkey, and young developer.I really enjoy learning languages, this much :)
 
 
 
-<h1 align="center">Welcome to my profile 👋</h1>
+<h1 align="center">Welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></h1>
 <p align="center">
   <a href="https://discord.com/users/644588418382430208" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://open.spotify.com/user/fox5xxhtge1obgyu9ieuog1bb?si=f1e4d96771d24ee7" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
