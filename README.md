@@ -17,6 +17,32 @@ I'm Cinar Sak from Turkey, and young developer.I really enjoy learning languages
 
 
 
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <a href="https://www.python.org"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="40px" width="40"></a>
+
+
+
+
+
+
+
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 - :zap: I love math, programming, data science
 - :seedling: I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
