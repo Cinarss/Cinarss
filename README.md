@@ -19,7 +19,7 @@ I'm Cinar Sak from Turkey, and young developer.I really enjoy learning languages
 - :zap: I love math, programming, data science
 - :seedling: I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
-- :mailbox: How to find me: 
+- 
   - :e-mail: [sakcinar5@gmail.com]()
 
 
