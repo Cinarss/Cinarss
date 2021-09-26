@@ -15,7 +15,7 @@
 
 
 <br><br>
-- 🌱 I’m currently learning **C#** and **Js**
+- 🌱 I’m currently learning **C#,Js**
 
 - 👨‍💻  My projects are available at **(https://github.com/Cinarss?tab=repositories)**
 
