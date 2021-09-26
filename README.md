@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-
+<br><br><br><br>
 I'm Cinar Sak from Turkey, and young developer.I really enjoy learning languages, this much :)
 
-
+<br><br><br>
 
 <h1 align="center">Welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"></h1>
 <p align="center">
@@ -14,7 +14,7 @@ I'm Cinar Sak from Turkey, and young developer.I really enjoy learning languages
 
 
 
-
+<br><br><br>
 
 
 <h3 align="left">Languages and Tools:</h3>
