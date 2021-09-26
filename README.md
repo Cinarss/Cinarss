@@ -26,6 +26,7 @@ I'm Cinar Sak from Turkey, and young developer.I really enjoy learning languages
   <a href="https://visualstudio.microsoft.com/tr/"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" width="40px" height="40px"></a>
   <a href="https://www.css.org"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40px" height="40px"></a>
   <a href="https://www.sqlite.org/index.html"> <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" width="50px" height="40px"></a>
+  <a href="https://www.linux.org"> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="40px" height="40px"></a>
 
 
 
