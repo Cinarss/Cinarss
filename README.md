@@ -8,10 +8,7 @@ I'm Cinar Sak from Turkey, and young developer.I really enjoy learning languages
 <h1 align="center">Welcome to my profile 👋</h1>
 <p align="center">
 
-  <a href="https://discord.com/users/644588418382430208" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/fox5xxhtge1obgyu9ieuog1bb?si=5f2f1ddf02e04321" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <a href="https://www.instagram.com/cinarsak/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
+
 
 
 
