@@ -27,7 +27,7 @@ I'm Cinar Sak from Turkey, and young developer.I really enjoy learning languages
   <a href="https://www.css.org"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40px" height="40px"></a>
   <a href="https://www.sqlite.org/index.html"> <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" width="50px" height="40px"></a>
   <a href="https://www.linux.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40px" height="40px"></a>
-
+  <a href=""> <img src="https://www.clipartmax.com/png/middle/351-3515666_c-language-global-or-external-variables-with-examples-c-programming-logo.png" width="40px" height="40px"></a> 
 
 
 
