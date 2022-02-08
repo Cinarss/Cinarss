@@ -43,7 +43,7 @@
 <br><br><br>
 
 <h2 align="center">Spotify</h2>
-<div align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=derin9999&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=derin9999&cover_image=true&theme=default"/></a></div>
+<div align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=ranıÇ&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=derin9999&cover_image=true&theme=default"/></a></div>
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/644588418382430208?theme=dark&bg=202020&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/644588418382430208)
