@@ -44,7 +44,4 @@
 
 
 
-
-
-<h2 align="center">Spotify</h2>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fox5xxhtge1obgyu9ieuog1bb&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
