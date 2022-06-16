@@ -1,1 +1,1 @@
-<div align="center"> https://metrics.lecoq.io/Cinarss?template=classic&isocalendar=1&stars=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&stars.limit=4&config.timezone=Europe%2FIstanbul</div>
+<div align="center"><img src="https://metrics.lecoq.io/Cinarss?template=classic&isocalendar=1&stars=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&stars.limit=4&config.timezone=Europe%2FIstanbul"></div>
