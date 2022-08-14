@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href="https://www.instagram.com/cinarsak/"><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"></a>
+<a href="https://www.instagram.com/cinarsak/"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"></a>
 
 </div>
 
