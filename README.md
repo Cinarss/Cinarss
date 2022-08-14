@@ -4,6 +4,7 @@
 <h3>Hi there 😉</h3>
 <h4>I am a full-stack developer.</h4>
 </div>
+<hr>
 <div align="left">
   <h2>Connect with me</h2>
   <p align="left">
