@@ -1,12 +1,12 @@
 
 <div align="center">
+  <h2>Contact Me</h2>
+  <p align="center">
 <a href="https://www.instagram.com/cinarsak/"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"></a>
-  
   <a href="https://linkedin.com/in/cinarsak"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
-
-
-
-<a href="https://twitter.com/cinarsakk"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/584px-Twitter-logo.svg.png"></a></div>
+<a href="https://twitter.com/cinarsakk"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/584px-Twitter-logo.svg.png"></a>
+</p>
+</div>
 
 
 <div align="center">
