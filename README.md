@@ -1,4 +1,9 @@
 
+
+<div align="left">
+<h3>Hi there 😉</h3>
+<h4>I am a full-stack developer.</h4>
+</div>
 <div align="left">
   <h2>Connect with me</h2>
   <p align="left">
